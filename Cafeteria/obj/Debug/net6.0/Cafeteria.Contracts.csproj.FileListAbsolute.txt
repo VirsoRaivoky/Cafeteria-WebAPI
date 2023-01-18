@@ -1,0 +1,15 @@
+C:\Users\Wilso\Documents\Projetos\WebApi\CafeteriaWebAPI\Cafeteria\bin\Debug\net6.0\Cafeteria.Contracts.exe
+C:\Users\Wilso\Documents\Projetos\WebApi\CafeteriaWebAPI\Cafeteria\bin\Debug\net6.0\Cafeteria.Contracts.deps.json
+C:\Users\Wilso\Documents\Projetos\WebApi\CafeteriaWebAPI\Cafeteria\bin\Debug\net6.0\Cafeteria.Contracts.runtimeconfig.json
+C:\Users\Wilso\Documents\Projetos\WebApi\CafeteriaWebAPI\Cafeteria\bin\Debug\net6.0\Cafeteria.Contracts.dll
+C:\Users\Wilso\Documents\Projetos\WebApi\CafeteriaWebAPI\Cafeteria\bin\Debug\net6.0\Cafeteria.Contracts.pdb
+C:\Users\Wilso\Documents\Projetos\WebApi\CafeteriaWebAPI\Cafeteria\obj\Debug\net6.0\Cafeteria.Contracts.csproj.AssemblyReference.cache
+C:\Users\Wilso\Documents\Projetos\WebApi\CafeteriaWebAPI\Cafeteria\obj\Debug\net6.0\Cafeteria.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wilso\Documents\Projetos\WebApi\CafeteriaWebAPI\Cafeteria\obj\Debug\net6.0\Cafeteria.Contracts.AssemblyInfoInputs.cache
+C:\Users\Wilso\Documents\Projetos\WebApi\CafeteriaWebAPI\Cafeteria\obj\Debug\net6.0\Cafeteria.Contracts.AssemblyInfo.cs
+C:\Users\Wilso\Documents\Projetos\WebApi\CafeteriaWebAPI\Cafeteria\obj\Debug\net6.0\Cafeteria.Contracts.csproj.CoreCompileInputs.cache
+C:\Users\Wilso\Documents\Projetos\WebApi\CafeteriaWebAPI\Cafeteria\obj\Debug\net6.0\Cafeteria.Contracts.dll
+C:\Users\Wilso\Documents\Projetos\WebApi\CafeteriaWebAPI\Cafeteria\obj\Debug\net6.0\refint\Cafeteria.Contracts.dll
+C:\Users\Wilso\Documents\Projetos\WebApi\CafeteriaWebAPI\Cafeteria\obj\Debug\net6.0\Cafeteria.Contracts.pdb
+C:\Users\Wilso\Documents\Projetos\WebApi\CafeteriaWebAPI\Cafeteria\obj\Debug\net6.0\Cafeteria.Contracts.genruntimeconfig.cache
+C:\Users\Wilso\Documents\Projetos\WebApi\CafeteriaWebAPI\Cafeteria\obj\Debug\net6.0\ref\Cafeteria.Contracts.dll
